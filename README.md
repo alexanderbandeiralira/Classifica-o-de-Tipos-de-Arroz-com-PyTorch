@@ -62,5 +62,3 @@ O modelo demonstrou um aprendizado extremamente rápido e eficaz, convergindo pa
 👨‍💻 Autor
 
 Alexander Lira Data Scientist | Deep Learning Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alexander-lira-3528241b7/])
