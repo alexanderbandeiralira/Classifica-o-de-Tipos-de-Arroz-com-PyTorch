@@ -49,12 +49,6 @@ O modelo demonstrou um aprendizado extremamente rápido e eficaz.
 | **Acurácia na Validação** | **99.22%** |
 | **Perda (Loss) Final** | **0.0322** |
 
-### Matriz de Confusão
-A matriz abaixo detalha os acertos por classe, evidenciando a robustez do classificador:
-
-![Matriz de Confusão](assets/confusion_matrix.png)
-
----
 
 ## 🏆 Resultados
 
